@@ -1,3 +1,3 @@
-# myfile
-# opening
-# vrsec displayed....
+myfile
+opening
+vrsec displayed....
