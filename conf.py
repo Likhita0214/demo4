@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'iot project'
-copyright = '2020, likhita'
-author = 'likhita'
+project = 'Iot project'
+copyright = '2020, Likhita'
+author = 'Likhita'
 
 # The full version, including alpha/beta/rc tags
 release = ''
